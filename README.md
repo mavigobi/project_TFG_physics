@@ -46,9 +46,9 @@ Por ese motivo, expongo mi Trabajo de Fin de Grado donde he introducido el conce
 
 **5. Originalidad de los proyectos dentro del repositorio.**
 
-La originalidad de este trabajo reside en que el código de Python 3.0 que he desarrollado para comprobar la eficacia de la técnica de variación de fase dado que no existen precedencias de la publicación de un código similar en Python.
+La originalidad de este trabajo reside en que he creado mi propio código en Python 3.0 para comprobar la solidez del método de  variación de fase para configuraciones en eje. No existen precedencias de la publicación de un código similar en Python.
 
-Cabe destacar que, para simular las configuraciones en eje, he creado dos objetos distintos puros de fase en Python y he estudiado dos casos distintos:
+Cabe destacar que, para simular las configuraciones en eje, he creado dos objetos distintos puros de fase en Python de amplitud unidad y, con ellos, he simulado la holografía para dos casos distintos:
 
 - Caso 1 - el plano del holograma se encuentra sobre el mismo plano del objeto.
 
